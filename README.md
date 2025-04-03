@@ -1,4 +1,4 @@
-# 🎬 youtube-html-css - A YouTube imitation (only HTML & CSS)
+# youtube-html-css - A YouTube imitation (using only HTML & CSS)
 
 
 ## Introduction
